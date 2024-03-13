@@ -1,16 +1,21 @@
-### Hi there 👋
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Programming123najra.gif" width="550" alt="Programming GIF">
 
-<!--
-**MohammadYazbeck/MohammadYazbeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hello, I'm Mohammad Yazbeck 👋
 
-Here are some ideas to get you started:
+I am a Software Engineer. My expertise lies in Programming and System Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+- 🌱 Learning Django.
+- 💬 Ask me about software projects.
+
+### Contact Me
+
+- 📧 Email: mohammadyazbeckk@gmail.com
+- 🌐 LinkedIn: https://www.linkedin.com/in/mohammadyazbeck/
+
+### Skills
+
+- Programming Languages: TypeScript, Dart, C#, Python.
+- Frameworks & Technologies: React, Flutter, Django
+
