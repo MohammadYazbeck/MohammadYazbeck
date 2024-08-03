@@ -8,7 +8,7 @@ I am a Software Engineer with expertise in Programming and System Design.
 
 ## About Me
 
-- 🌱 Currently learning Django.
+- 🌏 Currently learning Node.js
 - 💬 Ask me about software projects.
 
 ## Contact Me
