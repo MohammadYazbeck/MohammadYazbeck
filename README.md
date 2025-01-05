@@ -8,7 +8,7 @@ I am a Software Engineer with expertise in Programming and System Design.
 
 ## About Me
 
-- 🌏 Currently learning Node.js
+- 🌏 Currently learning NextJS
 - 💬 Ask me about software projects.
 
 ## Contact Me
@@ -19,4 +19,4 @@ I am a Software Engineer with expertise in Programming and System Design.
 ## Skills
 
 - **Programming Languages:** TypeScript, Dart, C#, Python.
-- **Frameworks & Technologies:** React, Flutter, Django
+- **Frameworks & Technologies:** React, Flutter, React Native (Expo), Express.js
